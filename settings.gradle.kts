@@ -16,4 +16,4 @@
 
 rootProject.name = "auto-truth"
 include(":annotations")
-include(":compiler")
+include(":processor")
